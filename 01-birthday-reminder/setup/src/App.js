@@ -4,7 +4,7 @@ import List from './List';
 function App() {
   return <main>
     <section className='container'>
-      <h3>0 birthday today</h3>
+      <h3>Test 1</h3>
       <list/>
       <button onClick={()=> console.log("you clicked me")}>Clear All</button>
 
