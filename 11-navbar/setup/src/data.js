@@ -4,7 +4,7 @@ export const links = [
   {
     id: 1,
     url: '/',
-    text: 'random',
+    text: 'Home',
   },
   {
     id: 2,
@@ -23,6 +23,21 @@ export const links = [
   },
   {
     id: 5,
+    url: '/profile',
+    text: 'profile',
+  },
+  {
+    id: 6,
+    url: '/profile',
+    text: 'profile',
+  },
+  {
+    id: 7,
+    url: '/profile',
+    text: 'profile',
+  },
+  {
+    id: 8,
     url: '/profile',
     text: 'profile',
   },
